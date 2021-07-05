@@ -10,6 +10,7 @@ import static org.junit.Assert.assertTrue;
 import java.util.*;
 import junit.framework.*;
 
+//Code was completed
 class JUnitDemo {
     static List<Employee> emps = new ArrayList<Employee>();
 
